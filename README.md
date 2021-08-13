@@ -6,8 +6,8 @@
 
 ## Demo
 
-![name](WeatherName)
+![name](/WeatherName)
 
 <br>
 
-![weather](Weatherdetail)
+![weather](/Weatherdetail)
